@@ -1,0 +1,124 @@
+[
+    {
+        "link": "/block-collapsing-effect",
+        "title": "商品介紹 - 區塊收合",
+        "icons": [
+            "fa-brands fa-html5",
+            "fa-brands fa-css3-alt",
+            "fa-brands fa-js"
+        ]
+    },
+    {
+        "link": "./slide-control",
+        "title": "滑動桿 - 控制價錢區塊",
+        "icons": [
+            "fa-brands fa-html5",
+            "fa-brands fa-css3-alt",
+            "fa-brands fa-js"
+        ]
+    },
+    {
+        "link": "./card-effect",
+        "title": "區塊翻牌+圖層向右延伸-聯絡我們",
+        "icons": [
+            "fa-brands fa-html5",
+            "fa-brands fa-css3-alt",
+            "fa-brands fa-js"
+        ]
+    },
+    {
+        "link": "./toggle-effect",
+        "title": "商品選擇 - 區塊置換",
+        "icons": [
+            "fa-brands fa-html5",
+            "fa-brands fa-css3-alt",
+            "fa-brands fa-js"
+        ]
+    },
+    {
+        "link": "./image-slider",
+        "title": "類3D換圖",
+        "icons": [
+            "fa-brands fa-html5",
+            "fa-brands fa-css3-alt",
+            "fa-brands fa-js"
+        ]
+    },
+    {
+        "link": "./menu",
+        "title": "menu效果",
+        "icons": [
+            "fa-brands fa-html5",
+            "fa-brands fa-css3-alt",
+            "fa-brands fa-js"
+        ]
+    },
+    {
+        "link": "./login-form",
+        "title": "帳密驗證 - 按鈕位移",
+        "icons": [
+            "fa-brands fa-html5",
+            "fa-brands fa-css3-alt",
+            "fa-brands fa-js"
+        ]
+    },
+    {
+        "link": "./touch-event",
+        "title": "手機觸控事件 上下左右",
+        "icons": [
+            "fa-brands fa-html5",
+            "fa-brands fa-css3-alt",
+            "fa-brands fa-js"
+        ]
+    },
+    {
+        "link": "./Image-displacement-Marquee",
+        "title": "商品圖片位移+跑馬燈css",
+        "icons": [
+            "fa-brands fa-html5",
+            "fa-brands fa-css3-alt",
+            "fa-brands fa-js"
+        ]
+    },
+    {
+        "link": "./text-spotlight-effect",
+        "title": "文字聚光燈效果(電腦版)",
+        "icons": [
+            "fa-brands fa-html5",
+            "fa-brands fa-css3-alt",
+            "fa-brands fa-js"
+        ]
+    },
+    {
+        "link": "./text-animation",
+        "title": "文字動畫效果",
+        "icons": [
+            "fa-brands fa-html5",
+            "fa-brands fa-css3-alt"
+        ]
+    },
+    {
+        "link": "./Slider",
+        "title": "圖片輪播效果",
+        "icons": [
+            "fa-brands fa-html5",
+            "fa-brands fa-css3-alt"
+        ]
+    },
+    {
+        "link": "./product-description-zoom",
+        "title": "商品說明動態縮放",
+        "icons": [
+            "fa-brands fa-html5",
+            "fa-brands fa-css3-alt"
+        ]
+    },
+    {
+        "link": "./block-scaling",
+        "title": "區塊伸縮效果",
+        "icons": [
+            "fa-brands fa-html5",
+            "fa-brands fa-css3-alt"
+        ]
+    }
+]
